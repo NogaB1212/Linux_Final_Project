@@ -1,0 +1,28 @@
+Mean Weight by Species:
+# A tibble: 3 × 2
+  Species Mean_Weight
+  <chr>         <dbl>
+1 OT               23
+2 PF                7
+3 <NA>            121
+
+Count of Records per Species:
+# A tibble: 3 × 2
+  Species Count
+  <chr>   <int>
+1 OT          3
+2 PF          1
+3 <NA>        2
+
+Top 10 Heaviest Animals:
+  Date.collected Species Sex Weight
+1           3/11    <NA>   M    232
+2           2/18      OT   M     24
+3           2/19      OT   F     23
+4           3/11      OT   F     22
+5            4/8    <NA>   F     10
+6            1/8      PF   M      7
+
+Saving Plot: Weight Distribution by Sex
+Plot saved as: weight_distribution.png 
+

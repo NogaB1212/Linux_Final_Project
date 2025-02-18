@@ -1,0 +1,21 @@
+    1  mkdir Linux_Course_Work && cd Linux_Course_Work
+    2  code .
+    3  git checkout -b question_2
+    4  cd ~
+    5  mkdir Q2_ENV
+    6  ls
+    7  cd Q2_ENV/
+    8  python3 -m venv Q2_ENV
+    9  source Q2_ENV/bin/activate
+   10  pip install numpy
+   11  cd Q5
+   12  docker cp r-container-fin11:/app/*.{png,pdf,txt} .
+   13  docker cp r-container-fin11:/app/*.png .
+   14  docker cp r-container-fin11:app/*.{png,pdf,txt} .
+   15  docker exec -it r-container-fin11 ls -l /app
+   16  docker cp r-container-fin11:/app/*.png .
+   17  docker cp r-container-fin11:/app/weight_distribution.png .
+   18  docker cp r-container-fin11:/app/Rplot.pdf .
+   19  docker cp r-container-fin11:/app/Rplots.pdf .
+   20  docker cp r-container-fin11:/app/5_R_outputs.txt .
+   21  history > hist_Q5_final.txt

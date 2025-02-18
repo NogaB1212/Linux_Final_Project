@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-LOGFILE="containers_file.log"
+LOGFILE="containers_files.log"
 
 # Start a fresh log file
 echo "[INFO] Listing files from each running container at $(date)" > "$LOGFILE"
