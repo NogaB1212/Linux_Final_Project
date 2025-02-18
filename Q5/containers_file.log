@@ -1,0 +1,21 @@
+[INFO] Listing files from each running container at Tue Feb 18 18:43:32 IST 2025
+===== Container: container2 (ID: b5ddddba1d6b, Status: running) =====
+/data:
+Demo_CSV.csv
+container2_CSV.csv
+output_5.txt
+
+===== Container: container1 (ID: eb5db12e1a46, Status: running) =====
+/data:
+Demo_CSV.csv
+container1_CSV.csv
+output_5.txt
+
+===== Container: peaceful_ganguly (ID: 2c05defdf6d3, Status: exited) =====
+[INFO] Container peaceful_ganguly is not running; cannot list files via 'docker exec'.
+
+===== Container: alpine_container_1 (ID: 8e76434a697d, Status: running) =====
+ls: /data: No such file or directory
+[WARN] Could not list /data inside alpine_container_1. Maybe /data doesn't exist?
+
+[INFO] Finished logging at Tue Feb 18 18:43:32 IST 2025
