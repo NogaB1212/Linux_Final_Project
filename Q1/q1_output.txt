@@ -1,0 +1,31 @@
+Time: Tue Feb 18 10:53:09 IST 2025
+USER DETAILS: nogaben:x:1000:1000:,,,:/home/nogaben:/bin/bash
+REPO: /home/nogaben/Linux_Course_Work
+BRANCH: question_1
+VERSIONID: "24.04"
+-------------------------------------------
+.:
+CODE
+DATA
+DOWNLOADS
+Q1
+
+./CODE:
+plant.py
+py1.py
+
+./DATA:
+FIle_1.txt
+File_2.txt
+img1.jpg
+img2.jpg
+img3.jpg
+plants.csv
+
+./DOWNLOADS:
+LINUX_COURSE_WORK-downloads
+
+./DOWNLOADS/LINUX_COURSE_WORK-downloads:
+
+./Q1:
+q1_output.txt
