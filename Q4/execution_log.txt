@@ -1,0 +1,8 @@
+Saving plots in: Q4/Rose
+Generated plots for Rose and saved in Q4/Rose
+Saving plots in: Q4/Tulip
+Generated plots for Tulip and saved in Q4/Tulip
+Saving plots in: Q4/Sunflower
+Generated plots for Sunflower and saved in Q4/Sunflower
+Saving plots in: Q4/Daffodil
+Generated plots for Daffodil and saved in Q4/Daffodil
