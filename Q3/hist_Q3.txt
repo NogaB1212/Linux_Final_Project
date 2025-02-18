@@ -1,0 +1,42 @@
+    1  mkdir Q3
+    2  deactivate
+    3  cd Q3
+    4  touch commit.sh
+    5  git checkout -b "BAG FIX1"
+    6  git checkout -b BAG_FIX1
+    7  echo "BUGID,DESCRIPTION,BRANCH,DEVELOPER NAME,BUG PRIORITY,REPOSITORY PATH,GITHUBURL" > bugs.csv
+    8  echo "234,File name should contain date in header,br_1,g.cohen,3,./Q3,https://github.com/NogaB1212/Linux_Final_Project" >> bugs.csv
+    9  echo "235,Fix login issue,br_2,a.smith,2,./Q3,https://github.com/NogaB1212/Linux_Final_Project" >> bugs.csv
+   10  echo "236,Improve UI design,BAG_FIX1,j.doe,1,./Q3,https://github.com/NogaB1212/Linux_Final_Project" >> bugs.csv
+   11  chmod +x
+   12  chmod +x commit.sh 
+   13  ./commit.sh 
+   14  git checkout main 
+   15  git checkout -b br_2
+   16  git checkout main
+   17  git merge BAG_FIX1
+   18  git checkout br_2
+   19  git rebase main
+   20  touch New_DEMO1.txt
+   21  touch New_DEMO{2..10}.txt
+   22  ./commit.sh 
+   23  git checkout main
+   24  git checkout -b br_1
+   25  touch IMAGE{4...9}.gpj
+   26  touch IMAGE{4..9}.jpg
+   27  ./commit.sh 
+   28  git checkout main
+   29  git merge br_1
+   30  git merge br_2
+   31  touch commits.txt
+   32  git log >> commit.txt
+   33  git log >> commits.txt
+   34  git checkout br_2
+   35  git log >> commits.txt
+   36  git checkout br_1
+   37  git log >> commits.txt
+   38  git checkout BAG_FIX1
+   39  git log >> commits.txt
+   40  git checkout main
+   41  git push origin main
+   42  history > hist_Q3.txt
