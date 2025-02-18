@@ -1,0 +1,14 @@
+    1  cd ..
+    2  mkdir Q5
+    3  touch Q5/CSV_input
+    4  touch Q5/CSV_input.sh
+    5  chmod +x CSV_input.sh
+    6  cd Q4
+    7  cd ../Q5
+    8  chmod +x CSV_input.sh
+    9  ./CSV_input.sh
+   10  ./CSV_input.sh Demo_CSV.csv 
+   11  cd ..
+   12  git add .
+   13  history > /Q5/hist_Q5
+   14  history > Q5/hist_Q5

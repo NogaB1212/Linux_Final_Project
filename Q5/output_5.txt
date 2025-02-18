@@ -1,0 +1,49 @@
+[INFO] Added row: 1/8,PF,M,7
+[INFO] Added row: 2/18,OT,M,24
+[INFO] Added row: 2/19,OT,F,23
+[INFO] Added row: 3/11,NA,M,232
+==== Displaying Demo_CSV.csv with row indexes ====
+RowIndex,Date collected,Species,Sex,Weight
+0,1/8,PF,M,7
+1,2/18,OT,M,24
+2,2/19,OT,F,23
+3,3/11,NA,M,232
+==== Filter results for species: OT ====
+Date collected,Species,Sex,Weight
+2/18,OT,M,24
+2/19,OT,F,23
+Average weight for OT: 23.5
+==== Filter results for Species: NA, Sex: M ====
+Date collected,Species,Sex,Weight
+3/11,NA,M,232
+[INFO] Added row: 4/8,NA,F,8
+[INFO] Added row: 5/6,NA,F,45
+[INFO] Added row: 3/11,OT,F,22
+Invalid option. Please choose [1-9].
+==== Filter results for species: OT ====
+Date collected,Species,Sex,Weight
+2/18,OT,M,24
+2/19,OT,F,23
+3/11,OT,F,22
+Average weight for OT: 23
+[INFO] Last output saved to 'Average_demo'.
+==== Displaying Demo_CSV.csv with row indexes ====
+RowIndex,Date collected,Species,Sex,Weight
+0,1/8,PF,M,7
+1,2/18,OT,M,24
+2,2/19,OT,F,23
+3,3/11,NA,M,232
+4,4/8,NA,F,8
+5,5/6,NA,F,45
+6,3/11,OT,F,22
+[INFO] Row 5 deleted from Demo_CSV.csv (if it existed).
+==== Displaying Demo_CSV.csv with row indexes ====
+RowIndex,Date collected,Species,Sex,Weight
+0,1/8,PF,M,7
+1,2/18,OT,M,24
+2,2/19,OT,F,23
+3,3/11,NA,M,232
+4,4/8,NA,F,8
+5,3/11,OT,F,22
+[INFO] Updated row 4 with new weight = 10
+Exiting...

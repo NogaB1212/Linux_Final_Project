@@ -1,0 +1,4 @@
+Date collected,Species,Sex,Weight
+2/18,OT,M,24
+2/19,OT,F,23
+3/11,OT,F,22
