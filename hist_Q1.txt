@@ -1,0 +1,39 @@
+    1  mkdir Linux_Course_Work && cd Linux_Course_Work
+    2  code .
+    3  git init
+    4  ls -al
+    5  echo "Noga Ben Sira, 208548362" > .myid 
+    6  git add .myid
+    7  git commit -m "START"
+    8  mkdir DOWNLOADS
+    9  wget https://github.com/Telhai-Git/LINUX_COURSE_WORK/archive/refs/tags/downloads.tar.gz
+   10  tar -zxf downloads.tar.gz -C DOWNLOADS/
+   11  rm downloads.tar.gz 
+   12  git add .
+   13  git commit -m "Download_File_Commit_Q1"
+   14  mkdir DATA CODE
+   15  mv DOWNLOADS/*.py CODE/
+   16  mv DOWNLOADS/LINUX_COURSE_WORK-downloads/*.py CODE/
+   17  mv DOWNLOADS/LINUX_COURSE_WORK-downloads/*.{txt,csv,jpg} DATA/
+   18  git checkout -b question_1
+   19  mkdir Q1
+   20  touch Q1/q1_output.txt
+   21  echo "Time: $(date)" > Q1/q1_output.txt
+   22  echo "USER DETAILS: $(grep $(whoami) /etc/passwd)" >> Q1/q1_output.txt
+   23  echo "REPO: $(pwd)" >> Q1/q1_output.txt
+   24  echo "BRANCH: $(git branch --show-current)" >> Q1/q1_output.txt
+   25  echo "VERSIONID: $(grep 'VERSION_ID' /etc/os-release | cut -d= -f2)" >> Q1/q1_output.txt
+   26  echo "-------------------------------------------" >> Q1/q1_output.txt
+   27  ls -R >> Q1/q1_output.txt
+   28  git add .
+   29  git commit -m "New Branch Q1"
+   30  git checkout master
+   31  git merge question_1
+   32  git log --oneline > git_commits.log
+   33  git add .
+   34  git commit -m "Q1 Final"
+   35  git remote add origin https://github.com/NogaB1212/Linux_Final_Project.git
+   36  git branch -M main
+   37  git push -u origin main
+   38  git push origin question_1
+   39  history > hist_Q1.txt
