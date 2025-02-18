@@ -1,0 +1,200 @@
+commit dbfd913cc709b6514d49404ae9a9baaa1dfda400
+Merge: f23068c 40b6d29
+Author: Noga <nbs1212@gmail.com>
+Date:   Tue Feb 18 14:40:05 2025 +0200
+
+    Merge branch 'br_2'
+    just because
+
+commit f23068ceb36045132933b2061d743d1869b152ad
+Author: Noga <nbs1212@gmail.com>
+Date:   Tue Feb 18 14:36:43 2025 +0200
+
+    234:2025-02-18_14-36:br_1:g.cohen:3:File name should contain date in header
+
+commit 40b6d296c1fe7e4d761c9eb71ceeb488937ef783
+Author: Noga <nbs1212@gmail.com>
+Date:   Tue Feb 18 14:31:11 2025 +0200
+
+    235:2025-02-18_14-31:br_2:a.smith:2:Fix login issue
+
+commit c77853c86b1a3fe1571c639ae532b93a6ef5095c
+Author: Noga <nbs1212@gmail.com>
+Date:   Tue Feb 18 14:17:17 2025 +0200
+
+    236:2025-02-18_14-17:BAG_FIX1:j.doe:1:Improve UI design
+
+commit 01c61f96aad6865479543a8abe0170f0514e5e29
+Author: Noga <nbs1212@gmail.com>
+Date:   Tue Feb 18 12:19:08 2025 +0200
+
+    Q2_branch_commit
+
+commit 2b7d0f767f8276f6a82ddd5737d89024c4cdb971
+Author: Noga <nbs1212@gmail.com>
+Date:   Tue Feb 18 11:34:55 2025 +0200
+
+    history_commit_Q1
+
+commit 8cbb4dc6aba0e38404e4eddc46c92ed78f20e43d
+Author: Noga <nbs1212@gmail.com>
+Date:   Tue Feb 18 11:13:22 2025 +0200
+
+    Q1 Final
+
+commit a6e3958c7006d82f914d8f34d8c35f62adfab2ab
+Author: Noga <nbs1212@gmail.com>
+Date:   Tue Feb 18 11:04:19 2025 +0200
+
+    New Branch Q1
+
+commit 080007d86b526ac7aa0c7dc91d489db618325de0
+Author: Noga <nbs1212@gmail.com>
+Date:   Tue Feb 18 10:41:14 2025 +0200
+
+    Download_File_Commit_Q1
+
+commit 0556e3067e6c8d55b6320d0bdf25921fe22f86ad
+Author: Noga <nbs1212@gmail.com>
+Date:   Tue Feb 18 10:22:37 2025 +0200
+--------------------------------------
+    START
+
+commit 40b6d296c1fe7e4d761c9eb71ceeb488937ef783
+Author: Noga <nbs1212@gmail.com>
+Date:   Tue Feb 18 14:31:11 2025 +0200
+
+    235:2025-02-18_14-31:br_2:a.smith:2:Fix login issue
+
+commit c77853c86b1a3fe1571c639ae532b93a6ef5095c
+Author: Noga <nbs1212@gmail.com>
+Date:   Tue Feb 18 14:17:17 2025 +0200
+
+    236:2025-02-18_14-17:BAG_FIX1:j.doe:1:Improve UI design
+
+commit 01c61f96aad6865479543a8abe0170f0514e5e29
+Author: Noga <nbs1212@gmail.com>
+Date:   Tue Feb 18 12:19:08 2025 +0200
+
+    Q2_branch_commit
+
+commit 2b7d0f767f8276f6a82ddd5737d89024c4cdb971
+Author: Noga <nbs1212@gmail.com>
+Date:   Tue Feb 18 11:34:55 2025 +0200
+
+    history_commit_Q1
+
+commit 8cbb4dc6aba0e38404e4eddc46c92ed78f20e43d
+Author: Noga <nbs1212@gmail.com>
+Date:   Tue Feb 18 11:13:22 2025 +0200
+
+    Q1 Final
+
+commit a6e3958c7006d82f914d8f34d8c35f62adfab2ab
+Author: Noga <nbs1212@gmail.com>
+Date:   Tue Feb 18 11:04:19 2025 +0200
+
+    New Branch Q1
+
+commit 080007d86b526ac7aa0c7dc91d489db618325de0
+Author: Noga <nbs1212@gmail.com>
+Date:   Tue Feb 18 10:41:14 2025 +0200
+
+    Download_File_Commit_Q1
+
+commit 0556e3067e6c8d55b6320d0bdf25921fe22f86ad
+Author: Noga <nbs1212@gmail.com>
+Date:   Tue Feb 18 10:22:37 2025 +0200
+
+-----------------------------
+    START
+commit f23068ceb36045132933b2061d743d1869b152ad
+Author: Noga <nbs1212@gmail.com>
+Date:   Tue Feb 18 14:36:43 2025 +0200
+
+    234:2025-02-18_14-36:br_1:g.cohen:3:File name should contain date in header
+
+commit c77853c86b1a3fe1571c639ae532b93a6ef5095c
+Author: Noga <nbs1212@gmail.com>
+Date:   Tue Feb 18 14:17:17 2025 +0200
+
+    236:2025-02-18_14-17:BAG_FIX1:j.doe:1:Improve UI design
+
+commit 01c61f96aad6865479543a8abe0170f0514e5e29
+Author: Noga <nbs1212@gmail.com>
+Date:   Tue Feb 18 12:19:08 2025 +0200
+
+    Q2_branch_commit
+
+commit 2b7d0f767f8276f6a82ddd5737d89024c4cdb971
+Author: Noga <nbs1212@gmail.com>
+Date:   Tue Feb 18 11:34:55 2025 +0200
+
+    history_commit_Q1
+
+commit 8cbb4dc6aba0e38404e4eddc46c92ed78f20e43d
+Author: Noga <nbs1212@gmail.com>
+Date:   Tue Feb 18 11:13:22 2025 +0200
+
+    Q1 Final
+
+commit a6e3958c7006d82f914d8f34d8c35f62adfab2ab
+Author: Noga <nbs1212@gmail.com>
+Date:   Tue Feb 18 11:04:19 2025 +0200
+
+    New Branch Q1
+
+commit 080007d86b526ac7aa0c7dc91d489db618325de0
+Author: Noga <nbs1212@gmail.com>
+Date:   Tue Feb 18 10:41:14 2025 +0200
+
+    Download_File_Commit_Q1
+
+commit 0556e3067e6c8d55b6320d0bdf25921fe22f86ad
+Author: Noga <nbs1212@gmail.com>
+Date:   Tue Feb 18 10:22:37 2025 +0200
+
+---------------------------------------------
+    START
+commit c77853c86b1a3fe1571c639ae532b93a6ef5095c
+Author: Noga <nbs1212@gmail.com>
+Date:   Tue Feb 18 14:17:17 2025 +0200
+
+    236:2025-02-18_14-17:BAG_FIX1:j.doe:1:Improve UI design
+
+commit 01c61f96aad6865479543a8abe0170f0514e5e29
+Author: Noga <nbs1212@gmail.com>
+Date:   Tue Feb 18 12:19:08 2025 +0200
+
+    Q2_branch_commit
+
+commit 2b7d0f767f8276f6a82ddd5737d89024c4cdb971
+Author: Noga <nbs1212@gmail.com>
+Date:   Tue Feb 18 11:34:55 2025 +0200
+
+    history_commit_Q1
+
+commit 8cbb4dc6aba0e38404e4eddc46c92ed78f20e43d
+Author: Noga <nbs1212@gmail.com>
+Date:   Tue Feb 18 11:13:22 2025 +0200
+
+    Q1 Final
+
+commit a6e3958c7006d82f914d8f34d8c35f62adfab2ab
+Author: Noga <nbs1212@gmail.com>
+Date:   Tue Feb 18 11:04:19 2025 +0200
+
+    New Branch Q1
+
+commit 080007d86b526ac7aa0c7dc91d489db618325de0
+Author: Noga <nbs1212@gmail.com>
+Date:   Tue Feb 18 10:41:14 2025 +0200
+
+    Download_File_Commit_Q1
+
+commit 0556e3067e6c8d55b6320d0bdf25921fe22f86ad
+Author: Noga <nbs1212@gmail.com>
+Date:   Tue Feb 18 10:22:37 2025 +0200
+
+    START
+------------------------------------
