@@ -2,3 +2,4 @@ BUGID,DESCRIPTION,BRANCH,DEVELOPER NAME,BUG PRIORITY,REPOSITORY PATH,GITHUBURL
 234,File name should contain date in header,br_1,g.cohen,3,./Q3,https://github.com/NogaB1212/Linux_Final_Project
 235,Fix login issue,br_2,a.smith,2,./Q3,https://github.com/NogaB1212/Linux_Final_Project
 236,Improve UI design,BAG_FIX1,j.doe,1,./Q3,https://github.com/NogaB1212/Linux_Final_Project
+237,Main branch setup,main,n.ben_sira,1,./Q3,https://github.com/NogaB1212/Linux_Final_Project
